@@ -6,7 +6,9 @@ function lastImageSelector() {
   return $('img:last');
 }
 
-
+function ninjaBabySelector() {
+  return $('#')
+}
 
 /*
   it('ninjaBabySelector() should return the image of the ninja baby', function() {
